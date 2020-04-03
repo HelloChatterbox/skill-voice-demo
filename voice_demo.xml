@@ -1,0 +1,220 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="on_keyphrase" id="o|PAV%!!sPct@Cz1Z2`." x="32" y="28">
+    <value name="keyphrase">
+      <shadow xmlns="http://www.w3.org/1999/xhtml" type="text" id="Tnit`:Ju1)u`MJIfTZ#a">
+        <field name="TEXT"></field>
+      </shadow>
+      <block type="text" id="Tnit`:Ju1)u`MJIfTZ#a">
+        <field name="TEXT">voice demo</field>
+      </block>
+    </value>
+    <statement name="CODE">
+      <block type="voice_speak" id="2H0%@rCIap7p]W=[:5e?">
+        <field name="voice">Justin__chatterbox__Justin</field>
+        <value name="text">
+          <shadow type="text">
+            <field name="TEXT"/>
+          </shadow>
+          <block type="text" id="85D/%0sPNy2hI:07W6@Z">
+            <field name="TEXT">this voice is called Justin</field>
+          </block>
+        </value>
+        <next>
+          <block type="voice_speak" id="338S1T0BF*e2JUgrQ2^^">
+            <field name="voice">Russell__chatterbox__Russell</field>
+            <value name="text">
+              <shadow type="text">
+                <field name="TEXT"/>
+              </shadow>
+              <block type="text" id="rr64J(dCqqPL.)_{},ht">
+                <field name="TEXT">this voice is called Russell</field>
+              </block>
+            </value>
+            <next>
+              <block type="voice_speak" id="M,N/4c7-LyhH=11PT(vN">
+                <field name="voice">Joey__chatterbox__Joey</field>
+                <value name="text">
+                  <shadow type="text">
+                    <field name="TEXT"/>
+                  </shadow>
+                  <block type="text" id="Ra!|aiM(jo{;P8L[xJq)">
+                    <field name="TEXT">this voice is called Joey</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="voice_speak" id="QJ#|W;W^B^t!YO6~.f:C">
+                    <field name="voice">Matthew__chatterbox__Matthew</field>
+                    <value name="text">
+                      <shadow type="text">
+                        <field name="TEXT"/>
+                      </shadow>
+                      <block type="text" id="2$PF2_P6J@j[2[~jSV~(">
+                        <field name="TEXT">this voice is called Matthew</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="voice_speak" id="JiyHqPJC-?WN=}o-2Y{b">
+                        <field name="voice">Nicole__chatterbox__Nicole</field>
+                        <value name="text">
+                          <shadow type="text">
+                            <field name="TEXT"/>
+                          </shadow>
+                          <block type="text" id="og7fU`+v-oEhqk{!o`)G">
+                            <field name="TEXT">this voice is called Nicole</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="voice_speak" id="*0bG=5#E-Rq`)/LgdfXM">
+                            <field name="voice">Ivy__chatterbox__Ivy</field>
+                            <value name="text">
+                              <shadow type="text">
+                                <field name="TEXT"/>
+                              </shadow>
+                              <block type="text" id="l+d#qV-WuUi(V6J5J[@q">
+                                <field name="TEXT">this voice is called Ivy</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="voice_speak" id="_+iqQ:%,*-lUPWKuij/W">
+                                <field name="voice">Emma__chatterbox__Emma</field>
+                                <value name="text">
+                                  <shadow type="text">
+                                    <field name="TEXT"/>
+                                  </shadow>
+                                  <block type="text" id="vm226{t9+(Q_jpepE6-e">
+                                    <field name="TEXT">this voice is called Emma</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="voice_speak" id="p)yoqZa`_GyEt}[~^o|Y">
+                                    <field name="voice">Amy__chatterbox__Amy</field>
+                                    <value name="text">
+                                      <shadow type="text">
+                                        <field name="TEXT"/>
+                                      </shadow>
+                                      <block type="text" id="?C5QE!NO4{A6uQFPSC0T">
+                                        <field name="TEXT">this voice is called Amy</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="voice_speak" id="PHVuz^u~VjX|*hyNmn-U">
+                                        <field name="voice">Joanna__chatterbox__Joanna</field>
+                                        <value name="text">
+                                          <shadow type="text">
+                                            <field name="TEXT"/>
+                                          </shadow>
+                                          <block type="text" id="!!C_4H4bx=l(acF,2RHH">
+                                            <field name="TEXT">this voice is called Joanna</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="voice_speak" id="-247Z+1GMMQ9FoDr~5{b">
+                                            <field name="voice">Kendra__chatterbox__Kendra</field>
+                                            <value name="text">
+                                              <shadow type="text">
+                                                <field name="TEXT"/>
+                                              </shadow>
+                                              <block type="text" id="0TlIs~fa8[y[upNV@v`O">
+                                                <field name="TEXT">this voice is called Kendra</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="voice_speak" id="w%P.XNOyf@iDow+pyEb!">
+                                                <field name="voice">Kimberly__chatterbox__Kimberly</field>
+                                                <value name="text">
+                                                  <shadow type="text">
+                                                    <field name="TEXT"/>
+                                                  </shadow>
+                                                  <block type="text" id="8!Y`NKZ*~d2Go@B@9$-(">
+                                                    <field name="TEXT">this voice is called Kimberly</field>
+                                                  </block>
+                                                </value>
+                                                <next>
+                                                  <block type="voice_speak" id=",[x7t`tM@IIOe5+-s4mh">
+                                                    <field name="voice">Salli__chatterbox__Salli</field>
+                                                    <value name="text">
+                                                      <shadow type="text">
+                                                        <field name="TEXT"/>
+                                                      </shadow>
+                                                      <block type="text" id="S7pnM}E-oJ-.PeY{WzPt">
+                                                        <field name="TEXT">this voice is called Salli</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="voice_speak" id="R{mFDYz[TX:Q~4a(GNT;">
+                                                        <field name="voice">Geraint__chatterbox__Geraint</field>
+                                                        <value name="text">
+                                                          <shadow type="text">
+                                                            <field name="TEXT"/>
+                                                          </shadow>
+                                                          <block type="text" id=":|(%er%1un._=`:A^JG/">
+                                                            <field name="TEXT">this voice is called Geraint</field>
+                                                          </block>
+                                                        </value>
+                                                        <next>
+                                                          <block type="voice_speak" id="`jyZMbwSe%8:K,?9Ts-O">
+                                                            <field name="voice">Brian__chatterbox__Brian</field>
+                                                            <value name="text">
+                                                              <shadow type="text">
+                                                                <field name="TEXT"/>
+                                                              </shadow>
+                                                              <block type="text" id="3P6]#_NK+0@2xGIS{eQd">
+                                                                <field name="TEXT">this voice is called Brian</field>
+                                                              </block>
+                                                            </value>
+                                                            <next>
+                                                              <block type="voice_speak" id="9XjWOxt+cYBn|S`.5Bbx">
+                                                                <field name="voice">Linda__google__Linda</field>
+                                                                <value name="text">
+                                                                  <shadow type="text">
+                                                                    <field name="TEXT"/>
+                                                                  </shadow>
+                                                                  <block type="text" id="#S2ht{1JuGYh_!5#B1x@">
+                                                                    <field name="TEXT">this voice is called Linda</field>
+                                                                  </block>
+                                                                </value>
+                                                                <next>
+                                                                  <block type="voice_speak" id="W_4|K/J^.lcG.IFj~7q7">
+                                                                    <field name="voice">R2D2__beepspeak__R2D2</field>
+                                                                    <value name="text">
+                                                                      <shadow type="text">
+                                                                        <field name="TEXT"/>
+                                                                      </shadow>
+                                                                      <block type="text" id="A0hX}7Y,R[f+F5)Kf:*/">
+                                                                        <field name="TEXT">May the force be with you</field>
+                                                                      </block>
+                                                                    </value>
+                                                                  </block>
+                                                                </next>
+                                                              </block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+</xml>
